@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": [],
@@ -132,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "udemy-angular-project"
+  "defaultProject": "udemy-angular-project",
+  "cli": {
+    "analytics": "6b5b5354-56a2-45e6-87fc-cb76c307ed05"
+  }
 }
