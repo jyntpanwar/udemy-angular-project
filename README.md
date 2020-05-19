@@ -1,6 +1,8 @@
 # UdemyAngularProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+This is a simple angular application which uses firebase as a backend. This was made following the course on udemy. It implements many features of angular 2+ and can be used as a reference for beginners.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.
 
 ## Development server
 
